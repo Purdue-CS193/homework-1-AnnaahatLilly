@@ -34,12 +34,14 @@ mv Programs/Name.py  Programs/Space.py Programs/Python\ 3/
 touch Homework/POL141/Essay.txt
 
 # Task 11
-
+ls ..
 
 # Task 12
 : '
 Type your vim/nano customizations below:
-
+colorscheme evening
+set number
+set nowrap
 
 
 '
